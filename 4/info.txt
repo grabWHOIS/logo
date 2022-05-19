@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Titillium-Light
+font link: https://www.fontsquirrel.com/fonts/titillium
+font author: Accademia di Belle Arti Urbino
+font author site: http://www.accademiadiurbino.it/
+
+
+icon designer: Ayumi Aya
+icon designer link: /AyumiAya
+        
+
+fontColor: {"gradient-0":"#b5e853","gradient-1":"#C8C9C4"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#b5e853","gradient-1":"#C8C9C4"}
+
+      

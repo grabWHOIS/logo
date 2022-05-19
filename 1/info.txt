@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: SpaceText-Light
+font link: https://github.com/floriankarsten/space-text
+font author: Florian Karsten
+font author site: http://floriankarsten.com/
+
+
+icon designer: Ayumi Aya
+icon designer link: /AyumiAya
+        
+
+fontColor: {"gradient-0":"#b5e853","gradient-1":"#C8C9C4"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#b5e853","gradient-1":"#C8C9C4"}
+
+      
